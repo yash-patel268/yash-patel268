@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋
 -->
-## 🔥 Streak stats: ...
+## GitHub Stats: ...
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
